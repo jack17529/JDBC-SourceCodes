@@ -26,7 +26,3 @@ Setting up the Code
 4. Finally, run the program in Eclipse
 
 If you have any questions, please post them in the class discussion forum.
-
-
-Chad “Shod” Darby
-www.luv2code.com
